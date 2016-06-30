@@ -11,9 +11,7 @@
 @interface ViewController : UIViewController{
     
     UIView *splash;
-    UIView *splash2;
     UILabel *welcomeScreen;
-    UILabel *welcomeScreen2;
 
 }
 
